@@ -34,6 +34,7 @@ I’m a Front End Developer living in Paris experienced in building responsive, 
 ### :nerd_face: I'm currently learning:
 
 - TypeScript
+- Motion
 
 ### :thinking: I want to learn:
 
