@@ -7,7 +7,7 @@ I’m a Front End Developer living in Paris experienced in building responsive, 
 <p align="left">
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/react-original.svg" height="auto" width="40">
   
-<img src="https://www.svgrepo.com/show/369457/nextjs.svg" height="auto" width="40">
+<img src="https://www.svgrepo.com/show/368858/nextjs.svg" height="auto" width="40">
 
 <img src="https://www.svgrepo.com/show/452130/vue.svg" height="auto" width="40">
 
