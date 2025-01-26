@@ -43,5 +43,6 @@ I’m a Front End Developer living in Paris experienced in building responsive, 
 
 ### Outside of coding I enjoy:
 
+- Music 🎵
 - Playing video games :video_game:
 - Cooking 🧑‍🍳
