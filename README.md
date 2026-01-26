@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Maxime!
+# Hi there 👋 I'm Max!
 
 I’m a Front End Developer living in Paris experienced in building responsive, accessible websites and web applications using JavaScript, React, Next, Vue, Nuxt. I’m looking to expand my portfolio and collaborate on something new.
 
