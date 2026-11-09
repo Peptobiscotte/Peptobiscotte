@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Max!
 
-I’m a Front End Developer living in Paris experienced in building responsive, accessible websites and web applications using JavaScript, React, Next, Vue, Nuxt. I’m looking to expand my portfolio and collaborate on something new.
+I’m a developer based in Paris with experience in algorithms, backend development, and building web applications. I work with Python, JavaScript, TypeScript, and C, and I’m currently focused on exploring new technologies through hands-on projects, including AI agents and retrieval-augmented generation (RAG) systems.
 
 ## Skill set:
 
@@ -9,9 +9,11 @@ I’m a Front End Developer living in Paris experienced in building responsive, 
   
 <img src="https://www.svgrepo.com/show/368858/nextjs.svg" height="auto" width="40">
 
-<img src="https://www.svgrepo.com/show/452130/vue.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="auto" width="40">
 
-<img src="https://www.svgrepo.com/show/373940/nuxt.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="auto" width="40">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="auto" width="40">
 
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/nodejs-original.svg" height="auto" width="40">
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/html5-original.svg" height="auto" width="40">
@@ -29,17 +31,9 @@ I’m a Front End Developer living in Paris experienced in building responsive, 
 
 ### :technologist: I'm currently working on:
 
-- My React, Express, and Node skills
-
-### :nerd_face: I'm currently learning:
-
-- TypeScript
-- Motion
-
-### :thinking: I want to learn:
-
-- three.js
-
+- Python
+- Developing AI agents and harnesses
+- Building retrieval-augmented generation (RAG) systems
 
 ### Outside of coding I enjoy:
 
